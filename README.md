@@ -8,4 +8,5 @@
 - numpy
 
 ## Output 
-![flappybird](https://github.com/mahmudaAfreen/Deep-Reinforcement-Learning-Flappy-Bird/assets/36468927/ff4951ae-4ea9-4f57-9ce7-45c9c46ae008)
+
+<img width="671" alt="Screenshot 2024-01-14 213436" src="https://github.com/mahmudaAfreen/Deep-Reinforcement-Learning-Flappy-Bird/assets/36468927/db3a4f61-87ae-464f-bf10-738d93927b20">
